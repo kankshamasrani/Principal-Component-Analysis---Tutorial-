@@ -12,3 +12,6 @@ Principal Component Analysis (PCA) is a simple yet powerful technique used for d
 (2) Compute the eigen values and vectors of this covariance matrix
 
 (3) Use the eigen values and vectors to select only the most important feature vectors and then transform your data onto those vectors for     reduced dimensionality!
+
+
+[CODE](https://towardsdatascience.com/principal-component-analysis-your-tutorial-and-code-9719d3d3f376)
